@@ -102,3 +102,6 @@ Except where otherwise noted, all examples in this collection are licensed under
 license, version 2.0 <http://www.apache.org/licenses/LICENSE-2.0>`_ (the "License"). The full
 license text is provided in the ``LICENSE`` file accompanying this repository.
 
+
+
+See more about http://docs.aws.amazon.com/AWSJavaScriptSDK/latest/AWS/S3.html
